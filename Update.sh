@@ -1,7 +1,3 @@
-brew update && brew upgrade
-doxygen -u doxy
-doxygen doxy
-open ./docs/html/index.html
 git init
 git add .
 git commit -m "Updated file"
